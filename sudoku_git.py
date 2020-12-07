@@ -37,7 +37,7 @@ def valid_solution(board):
 
     return True if len(array2) == 0 and 45 in array and len(array) == 1 and z == 0 else False
 
-
+#someting
 print(valid_solution([
     [1, 2, 3, 4, 5, 6, 7, 8, 9],
     [2, 3, 4, 5, 6, 7, 8, 9, 1],
